@@ -8,7 +8,7 @@ def mov_disk(height,st ,nd,rd):
    
         
 
-
+XZ
 
 def pacet_disk(before,after):
     print('dvijen ot ',before, "k",after)
