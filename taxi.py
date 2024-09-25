@@ -20,3 +20,5 @@ n = int(input("ludi"))
 group = list(map(int, input("group ").split()))
 
 print(minimum_taxis(n, group))
+da
+fwff
