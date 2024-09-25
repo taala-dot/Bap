@@ -8,3 +8,4 @@ def moveDisk(fp,tp):
     print("moving disk from",fp,"to",tp)
 
 moveTower(3,"1","2","3")
+eds
