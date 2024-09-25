@@ -3,7 +3,7 @@ def minimum_taxis(n, group):
     twos = group.count(2)
     thri = group.count(3)
     four = group.count(4)  
-    tax = four 
+    tax = four f
     tax += thri 
     bir = max(0, bir - thri)
 
@@ -11,7 +11,7 @@ def minimum_taxis(n, group):
     if twos % 2:
         tax += 1
         bir = max(0, bir- 2)
-    
+    vdsf
     tax += bir // 4
     if bir % 4:
         tax += 1
